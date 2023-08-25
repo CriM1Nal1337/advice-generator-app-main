@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--DarkBlue);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--DarkGrayishBlue);
+}
